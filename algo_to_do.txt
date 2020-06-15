@@ -1,0 +1,12 @@
+Merge two sorted lists
+Minimum depth of binary tree
+Minimum path sum
+Minimum window substring
+Multiply strings
+Next permutation 
+Palindrome number
+Palindrome partitioning
+Palindrome partitioning 2
+Partition list
+Pascals triangle 2
+Path sum
