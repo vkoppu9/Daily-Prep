@@ -1,5 +1,46 @@
-Section 1 - 5 : done on 29/06
-Section 6 - 14 : need to finish
+Section 1: Introduction
+1. Welcome and Course Goals - done
+2. Course Overview - done
+3. About the Author / Instructor - done
+4. Course Audience and Course Study Tips - done
+5. Why Command Line? - done
+6. Why Source Control? - done
+7. Why Git? - done
+8. Key Git Terminology - done
+
+Section 2: Git Installation
+9. Installation Overview - done
+10. Installing Git for Windows - done
+11. Installing Git on Mac OS X - done
+
+Section 3: Git Quick Start
+12. Quick Start, Part 1: Starting with GitHub and Project Setup - done
+13. Quick Start, Part 2: Configuration, Clone, and Git Basic - done
+14. Quick Start Resources - done
+15. Text Editor Installation Overview - done
+16. Windows Text Editor: Notepad++ Installation - done
+17. Configure Notepad++ with Git (Windows Only) - done
+18. Mac Text Editor: TextMate 2 Installation - done
+19. Configure Text Mate 2 with Git (Mac Only) - done
+20. Text Editor Resources - done
+
+Section 5: Basic Git Commands
+21. Basic Commands Overview - done
+22. Starting with a Fresh Project (git init) - done
+23. Adding Git to an Existing Project (git init) - done
+24. Starting on GitHub by Joining an Existing Project (git clone) - done
+25. Basic Git Workflow (add, commit, pull & push) - done
+26. Tracked Files 
+27. Editing Files
+28. Recursive Add
+29. Backing Out Changes
+30. Renaming and Moving Files
+31. Deleting Files
+32. History
+33. Git Alias
+34. Ignoring Unwanted Files and Folders
+35. Cleanup and Back to Origin (GitHub)
+36. Git Basics Resources
 
 git config --global --list
 git add .
