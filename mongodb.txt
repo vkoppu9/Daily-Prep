@@ -29,12 +29,19 @@ Section 2 :
 24. update vs updateMany
 25. Understanding find() and the Cursor Object
 26. Understanding projection
-27. 
-28. 
-29. 
-30. 
-31. 
-32. 
+27. Embedded Documents and Arrays
+28. Working with Embedded Documents
+29. Working with Arrays
+30. Accessing Structured Data
+31. Wrap up
+32. Resources
+
+
+Section 3 :
+***************************
+
+
+
 
 
 
@@ -66,3 +73,10 @@ deleteMany(filter, options)
 
 db.passengers().find().toArray()
 db.passengers().find().forEach((passengerData) => {printjson(passengerData)})
+
+projection:
+db.passengers.find({}, {name : 1}).pretty()
+db.passengers.find({}, {name : 1, _id : 0}).pretty()
+
+db.passengers.findOne({name : "Venkata"}).hobbies
+db.flightData.find({"status.description" : "on-time"}).pretty()
