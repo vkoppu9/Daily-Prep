@@ -5,6 +5,11 @@ Section 1 :
 4. Understanding the MongoDB
 5. The key mongodb characteristics
 6. Understanding the MongoDB Ecosystem
-DONE
 7. Installing MongoDB
-8. 
+8. MongoDB installation FAQ
+9. Time to get started 
+10. Shell vs Drivers
+11. MongoDB + Clients
+12. Course Outline
+13. How to get the most out of the course 
+DONE
