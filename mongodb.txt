@@ -1,4 +1,5 @@
 Section 1 :
+***************************
 1. Introduction
 2. What is MongoDB?
 3. Join our Online Community
@@ -14,6 +15,7 @@ Section 1 :
 13. How to get the most out of the course 
 
 Section 2 :
+***************************
 Module introduction
 Understanding Databases, Collections and Documents
 The Shell & MongoDB Drivers for different languages
@@ -21,6 +23,8 @@ Creating Databases and Collections
 Understanding JSON Data
 Comparing JSON and BSON
 Create, Read, Update, Delete (CRUD) and MongoDB
+Finding, Inserting, Deleting, and Updating Elements
+Understanding insertMany
 
 
 
@@ -28,7 +32,27 @@ Create, Read, Update, Delete (CRUD) and MongoDB
 
 
 Notes:
+***************************
+
 show dbs
 use flights
 db.flightData.insertOne({})
 db.flightData.find().pretty()
+
+create 
+insertOne(data, options)
+insertMany(data, options)
+
+read
+find(filter, options)
+findOne(filter, options)
+
+update
+updateOne(filter, data, options)
+updateMany(filter, data, options)
+replaceOne(filter, data, options)
+
+delete 
+deleteOne(filter, options)
+deleteMany(filter, options)
+
