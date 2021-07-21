@@ -16,17 +16,25 @@ Section 1 :
 
 Section 2 :
 ***************************
-Module introduction
-Understanding Databases, Collections and Documents
-The Shell & MongoDB Drivers for different languages
-Creating Databases and Collections
-Understanding JSON Data
-Comparing JSON and BSON
-Create, Read, Update, Delete (CRUD) and MongoDB
-Finding, Inserting, Deleting, and Updating Elements
-Understanding insertMany
-
-
+14. Module introduction
+15. Understanding Databases, Collections and Documents
+16. The Shell & MongoDB Drivers for different languages
+17. Creating Databases and Collections
+18. Understanding JSON Data
+19. Comparing JSON and BSON
+20. Create, Read, Update, Delete (CRUD) and MongoDB
+21. Finding, Inserting, Deleting, and Updating Elements
+22. Understanding insertMany
+23. Diving deeper into finding data
+24. update vs updateMany
+25. Understanding find() and the Cursor Object
+26. 
+27. 
+28. 
+29. 
+30. 
+31. 
+32. 
 
 
 
