@@ -21,3 +21,14 @@ Creating Databases and Collections
 Understanding JSON Data
 Comparing JSON and BSON
 Create, Read, Update, Delete (CRUD) and MongoDB
+
+
+
+
+
+
+Notes:
+show dbs
+use flights
+db.flightData.insertOne({})
+db.flightData.find().pretty()
