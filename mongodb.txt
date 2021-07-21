@@ -12,4 +12,12 @@ Section 1 :
 11. MongoDB + Clients
 12. Course Outline
 13. How to get the most out of the course 
-DONE
+
+Section 2 :
+Module introduction
+Understanding Databases, Collections and Documents
+The Shell & MongoDB Drivers for different languages
+Creating Databases and Collections
+Understanding JSON Data
+Comparing JSON and BSON
+Create, Read, Update, Delete (CRUD) and MongoDB
