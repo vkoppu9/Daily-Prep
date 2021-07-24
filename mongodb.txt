@@ -39,6 +39,30 @@ Section 2 :
 
 Section 3 :
 ***************************
+33. Resetting your Database
+34. Module Introduction
+35. Why do we use schemas?
+36. Structuring Documents
+37. Data Types - An Overview
+38. Data Types in Action
+39. Data Types and Limits
+40. How to derive your Data Structure - Requirements
+41. 
+42. 
+43. 
+44. 
+45. 
+46. 
+47. 
+48. 
+49. 
+50. 
+51. 
+52. 
+53. 
+54. 
+55. 
+56. 
 
 
 
@@ -80,3 +104,21 @@ db.passengers.find({}, {name : 1, _id : 0}).pretty()
 
 db.passengers.findOne({name : "Venkata"}).hobbies
 db.flightData.find({"status.description" : "on-time"}).pretty()
+
+Data Types:
+Text 
+Boolean
+Number (int32)
+NumberLong (int64)
+NumberDecimal
+ObjectId
+ISODate
+Timestamp
+Embedded Document
+Array
+
+use test
+db.dropDatabase()
+
+use companyData
+db.companies.insertOne()
