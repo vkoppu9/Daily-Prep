@@ -47,9 +47,9 @@ Section 3 :
 38. Data Types in Action
 39. Data Types and Limits
 40. How to derive your Data Structure - Requirements
-41. 
-42. 
-43. 
+41. Understanding Relations
+42. One to One Relations - Embedded
+43. One to One - Using References
 44. 
 45. 
 46. 
